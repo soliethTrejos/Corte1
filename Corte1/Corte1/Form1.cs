@@ -75,10 +75,8 @@ namespace Corte1
             {
                 MessageBox.Show("Seleccione una persona de la lista.");
             }
+
+
         }
     }
 }
-        
-    
-
-
