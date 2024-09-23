@@ -37,5 +37,10 @@ namespace Corte1.models
             }
 
         }
+
+        internal object ObtenerPersonas()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
