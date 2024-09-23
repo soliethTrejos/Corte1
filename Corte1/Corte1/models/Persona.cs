@@ -13,13 +13,6 @@ namespace Corte1.models
         public DateTime FechaNacimiento { get; set; }
         public string Ciudad { get; set; }
 
-        public Persona(string nombres, string apellidos, DateTime fechaNacimiento, string ciudad)
-        {
-            Nombres = nombres;
-            Apellidos = apellidos;
-            FechaNacimiento = fechaNacimiento;
-            Ciudad = ciudad;
-        }
     }
 }
   
